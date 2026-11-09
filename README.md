@@ -16,7 +16,7 @@ A CubeSat is built from several cooperating subsystems. The following six were d
 - **Payload:** a camera, representing an Earth-observation satellite.
 
 Overview of the CubeSat subsystems
-![image alt]([images/overview.png](https://github.com/neptune-original/Projects/blob/5a6ca4d68aae9fa179fd32a5a6c7e4585f0c7cd9/1u%20cubesat%20subsystems.png))
+![image alt](https://github.com/neptune-original/Projects/blob/771f7aea92c5026eb45c62af772e00b847a689e4/1u%20cubesat%20subsystems.png)
 
 ## Preview Videos
 
