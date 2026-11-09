@@ -38,7 +38,7 @@ Because of their size, GitHub cannot preview the video files directly in the bro
 
 These models extend our final year project on the digital twin of a 1U CubeSat, a platform for designing the satellite and simulating its orbital and thermal behaviour.
 
-- **Digital twin project:** [Design and Development of a Digital Twin of a 1U CubeSat](PASTE-REPO-LINK-HERE)
+- **Digital twin project:** [Design and Development of a Digital Twin of a 1U CubeSat](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat)
 
 ## Notes
 
