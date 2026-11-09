@@ -18,7 +18,7 @@ A CubeSat is built from several cooperating subsystems. The following six were d
 Overview of the CubeSat subsystems 
 ![image alt](https://github.com/neptune-original/Projects/blob/771f7aea92c5026eb45c62af772e00b847a689e4/1u%20cubesat%20subsystems.png)
 
-*(picture taken from Nickolay Zosimovych. (2020). 1U CubeSat platform design. Journal of Aerospace Engineering, 8(1), 1–7. https://doi.org/10.5923/j.aerospace.20200801.01)*
+*(picture taken from Nickolay Zosimovych, “1U CubeSat Platform Design,” Journal of Aerospace Engineering, vol. 8, no. 1, pp. 1–7, May 2020, doi: 10.5923/j.aerospace.20200801.01.)*
 
 ## Preview Videos
 
