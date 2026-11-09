@@ -15,7 +15,8 @@ A CubeSat is built from several cooperating subsystems. The following six were d
 - **Attitude Determination and Control System (ADCS):** the attitude determination and control plate.
 - **Payload:** a camera, representing an Earth-observation satellite.
 
-![Overview of the CubeSat subsystems](images/overview.png)
+Overview of the CubeSat subsystems
+![image alt]([images/overview.png](https://github.com/neptune-original/Projects/blob/5a6ca4d68aae9fa179fd32a5a6c7e4585f0c7cd9/1u%20cubesat%20subsystems.png))
 
 ## Preview Videos
 
